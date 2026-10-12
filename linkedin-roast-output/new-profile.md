@@ -31,15 +31,15 @@ The limit is 220 characters. If LinkedIn's counter shows a different number, tru
 
 ## 2. About
 
-**New (1,584 characters, limit 2,600), paste this:**
+**New (1,623 characters, limit 2,600), paste this:**
 ```
 I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing. I like getting equipment running, finding out why a process fails, and proving the fix with data.
 
-At Bosch Research I test solid oxide cells (SOFC/SOEC) for hydrogen production. I have characterized around 60 cells at 800 °C using electrochemical impedance spectroscopy and polarization curves, and I analyze the results with my own Python tools (NumPy, pandas). I spent two months commissioning a new high-temperature test bench through hardware problems. On another bench, 5 runs in a row gave no results because the temperature was not regulating. I traced it to a set-value tag that had stopped working and configured a spare tag based on the actual value instead, so the bench now runs safely and records every result.
+At Bosch Research I test solid oxide cells (SOFC/SOEC) for hydrogen production. I have characterized around 60 cells at 800 °C using electrochemical impedance spectroscopy and polarization curves, and I analyze the results with my own Python tools (NumPy, pandas). I also support process validation work on the team. I spent two months commissioning a new high-temperature test bench through hardware problems. On another bench, 5 runs in a row gave no results because the temperature was not regulating. I traced it to a set-value tag that had stopped working and configured a spare tag based on the actual value instead, so the bench now runs safely and records every result.
 
-Before Bosch, I worked in Quality Assurance at Hikma Pharmaceuticals on a GMP penicillin tablet line: in-process checks, review of around 40 batch records for good documentation practices and data integrity, escalating deviations, and following 7 CAPA actions to closure. I also have hands-on experience with HPLC, process validation and cleanroom work, and I use Aspen Plus for process simulation.
+Before Bosch, I worked in Quality Assurance at Hikma Pharmaceuticals on a GMP penicillin tablet line: in-process checks, review of around 40 batch records for good documentation practices and data integrity, escalating deviations, and following 7 CAPA actions to closure. There I also worked in cleanroom areas and used HPLC.
 
-I hold a Bachelor's in Pharmaceutical and Chemical Engineering from German Jordanian University (2026), with a DAAD scholarship exchange in Chemistry at TH Lübeck. I work in English and Arabic, and my German is B2 certified. As a volunteer at AIESEC in Jordan, I led a team of 5 that grew our partner network to 12 host entities in 7 countries.
+I hold a Bachelor's in Pharmaceutical and Chemical Engineering from German Jordanian University (2026), with a DAAD scholarship exchange in Chemistry at TH Lübeck. During my studies I used Aspen Plus for process simulation. I work in English and Arabic, and my German is B2 certified. As a volunteer at AIESEC in Jordan, I led a team of 5 that grew our partner network to 12 host entities in 7 countries.
 ```
 
 ### Keywords and why they're there
@@ -55,10 +55,10 @@ I hold a Bachelor's in Pharmaceutical and Chemical Engineering from German Jorda
 | Data integrity | About, Hikma | Compliance term in most pharma job ads |
 | Commissioning | Headline, About, Bosch | A core process engineering task |
 | Electrochemical impedance spectroscopy (EIS) | About, Bosch | Specific method; signals real lab depth |
-| Aspen Plus | About, headline | The standard process simulation tool; process engineering ads often ask for it |
-| HPLC | About, headline | Key analytical method in pharma QC and process development |
-| Process validation | About | A core GMP task for pharma process engineers |
-| Cleanroom | About | Required for sterile and biomanufacturing roles |
+| Aspen Plus | About, headline, Education | The standard process simulation tool; process engineering ads often ask for it |
+| HPLC | About, headline, Hikma | Key analytical method in pharma QC and process development |
+| Process validation | About, Bosch | A core GMP task for pharma process engineers |
+| Cleanroom | About, Hikma | Required for sterile and biomanufacturing roles |
 | Python, NumPy, pandas | Headline, About, Bosch | Data skills that set you apart from other engineers |
 | German B2 | Headline, About | Many German employers filter on language level |
 
@@ -76,6 +76,7 @@ Solid Oxide Cell Development team: high-temperature electrochemical systems for 
 • Characterize SOFC and SOEC single cells with electrochemical impedance spectroscopy and polarization curves, testing around 60 cells at 800 °C.
 • Restored temperature control on a test bench that had produced no results for 5 runs, tracing the fault to a failed set-value (W1) tag and configuring a spare tag based on the actual value (X1), so tests now run safely with all results recorded.
 • Commissioned a new high-temperature test bench over 2 months, working through hardware problems across software, electrical connections, gas supply and high-precision measurement equipment.
+• Support process validation activities within the Solid Oxide Cell Development team.
 • Built Python tools with NumPy and pandas to analyze and plot cell performance data, and present results to an interdisciplinary research and engineering team.
 ```
 
@@ -84,6 +85,7 @@ Solid Oxide Cell Development team: high-temperature electrochemical systems for 
 • Reviewed around 40 batch records for penicillin tablets, checking completeness, accuracy, good documentation practices and data integrity before QA review and batch disposition.
 • Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications.
 • Followed 7 CAPA actions to closure, documenting actions, tracking status and coordinating with stakeholders.
+• Worked in GMP cleanroom areas and used HPLC as part of quality checks.
 • Escalated deviations, line events and quality observations with Production teams, recording each in a traceable way.
 ```
 
@@ -105,7 +107,7 @@ Cause: Education / Social services (pick whichever LinkedIn offers that fits bes
 ---
 
 ## 5. Other quick fixes
-- **Education:** add "2026" as your graduation year, and set the TH Lübeck entry to say "DAAD scholarship exchange".
+- **Education:** add "2026" as your graduation year, and under German Jordanian University add "Process simulation with Aspen Plus" in the description or as a linked skill, and set the TH Lübeck entry to say "DAAD scholarship exchange".
 - **Location:** if you're job hunting in Germany, change your location from Amman to Germany (for example Stuttgart region).
 - **Skills:** add Process Engineering, Aspen Plus, HPLC, Process Validation, Cleanroom, GMP, Python, Commissioning, Electrochemical Impedance Spectroscopy, German.
 - **Languages section:** add German – Professional working proficiency (B2), Arabic – Native, English – Full professional.

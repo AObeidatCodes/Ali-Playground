@@ -31,15 +31,15 @@ The limit is 220 characters. If LinkedIn's counter shows a different number, tru
 
 ## 2. About
 
-**New (1,623 characters, limit 2,600), paste this:**
+**New (1,608 characters, limit 2,600), paste this:**
 ```
 I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing. I like getting equipment running, finding out why a process fails, and proving the fix with data.
 
-At Bosch Research I test solid oxide cells (SOFC/SOEC) for hydrogen production. I have characterized around 60 cells at 800 °C using electrochemical impedance spectroscopy and polarization curves, and I analyze the results with my own Python tools (NumPy, pandas). I also support process validation work on the team. I spent two months commissioning a new high-temperature test bench through hardware problems. On another bench, 5 runs in a row gave no results because the temperature was not regulating. I traced it to a set-value tag that had stopped working and configured a spare tag based on the actual value instead, so the bench now runs safely and records every result.
+At Bosch Research I test solid oxide cells (SOFC/SOEC) for hydrogen production. I have characterized around 60 cells at 800 °C using electrochemical impedance spectroscopy and polarization curves, and I analyze the results with my own Python tools (NumPy, pandas). I also support process validation work on the team. I spent two months commissioning a new high-temperature test bench through hardware problems. On another bench, 5 separate runs gave no results because the temperature was not regulating. I traced it to a set-value tag that had stopped working and configured a spare tag based on the actual value instead, so the bench now runs safely and records every result.
 
 Before Bosch, I worked in Quality Assurance at Hikma Pharmaceuticals on a GMP penicillin tablet line: in-process checks, review of around 40 batch records for good documentation practices and data integrity, escalating deviations, and following 7 CAPA actions to closure. There I also worked in cleanroom areas and used HPLC.
 
-I hold a Bachelor's in Pharmaceutical and Chemical Engineering from German Jordanian University (2026), with a DAAD scholarship exchange in Chemistry at TH Lübeck. During my studies I used Aspen Plus for process simulation. I work in English and Arabic, and my German is B2 certified. As a volunteer at AIESEC in Jordan, I led a team of 5 that grew our partner network to 12 host entities in 7 countries.
+I hold a Bachelor's in Pharmaceutical and Chemical Engineering from German Jordanian University (2026), with a DAAD scholarship exchange in Chemistry at TH Lübeck. During my studies I used Aspen Plus for process simulation. I work in English and Arabic, and my German is B2 certified. At AIESEC in Jordan, I led a team of 5 that grew our partner network to 12 host entities in 7 countries.
 ```
 
 ### Keywords and why they're there
@@ -74,7 +74,7 @@ LinkedIn does not publish how it ranks profiles. These keywords match what recru
 ```
 Solid Oxide Cell Development team: high-temperature electrochemical systems for hydrogen production and energy conversion.
 • Characterize SOFC and SOEC single cells with electrochemical impedance spectroscopy and polarization curves, testing around 60 cells at 800 °C.
-• Restored temperature control on a test bench that had produced no results for 5 runs, tracing the fault to a failed set-value (W1) tag and configuring a spare tag based on the actual value (X1), so tests now run safely with all results recorded.
+• Restored temperature control on a test bench where 5 separate runs had produced no results, tracing the fault to a failed set-value (W1) tag and configuring a spare tag based on the actual value (X1), so tests now run safely with all results recorded.
 • Commissioned a new high-temperature test bench over 2 months, working through hardware problems across software, electrical connections, gas supply and high-precision measurement equipment.
 • Support process validation activities within the Solid Oxide Cell Development team.
 • Built Python tools with NumPy and pandas to analyze and plot cell performance data, and present results to an interdisciplinary research and engineering team.
@@ -89,26 +89,19 @@ Solid Oxide Cell Development team: high-temperature electrochemical systems for 
 • Escalated deviations, line events and quality observations with Production teams, recording each in a traceable way.
 ```
 
-## 4. Volunteering (move AIESEC here)
-
-AIESEC was unpaid volunteer work, so delete both AIESEC roles from **Experience**. Add them under **Volunteering** instead: Profile → Add profile section → Recommended → Add volunteer experience. Recruiters still see it there, and it no longer makes your paid work history look padded.
-
-### AIESEC in Jordan (volunteer): Team Leader for International Relationships · February 2022 – August 2022 · Amman
+### AIESEC in Jordan: Team Leader for International Relationships · February 2022 – August 2022 · Amman
 ```
 • Led a team of 5 that grew the partner network to 12 host entities across 7 countries.
 • Built relationships with partner organizations from different countries and cultures to open new exchange opportunities.
 ```
 
-### AIESEC in Jordan (volunteer): Marketing Team Member · August 2021 – February 2022 · Amman
+### AIESEC in Jordan: Marketing Team Member · August 2021 – February 2022 · Amman
 Leave this one with no description. A short, empty entry is better than a vague one.
-
-Cause: Education / Social services (pick whichever LinkedIn offers that fits best).
 
 ---
 
-## 5. Other quick fixes
+## 4. Other quick fixes
 - **Education:** add "2026" as your graduation year, and under German Jordanian University add "Process simulation with Aspen Plus" in the description or as a linked skill, and set the TH Lübeck entry to say "DAAD scholarship exchange".
-- **Location:** if you're job hunting in Germany, change your location from Amman to Germany (for example Stuttgart region).
 - **Skills:** add Process Engineering, Aspen Plus, HPLC, Process Validation, Cleanroom, GMP, Python, Commissioning, Electrochemical Impedance Spectroscopy, German.
 - **Languages section:** add German – Professional working proficiency (B2), Arabic – Native, English – Full professional.
 - **Open to Work:** set it to "Process Engineer", "Manufacturing Engineer" and "Biomanufacturing" job titles.

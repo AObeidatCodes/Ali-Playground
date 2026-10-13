@@ -2,5 +2,5 @@
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0f2a3d"/><stop offset="1" stop-color="#1c5a6b"/></linearGradient></defs>
   <rect width="1584" height="396" fill="url(#g)"/>
   <text x="1500" y="180" text-anchor="end" font-family="DejaVu Sans, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Chemical &amp; Pharmaceutical Engineer</text>
-  <text x="1500" y="260" text-anchor="end" font-family="DejaVu Sans, Arial, sans-serif" font-size="40" fill="#bfe3ea">Commissioning · Troubleshooting · GMP</text>
+  <text x="1500" y="260" text-anchor="end" font-family="DejaVu Sans, Arial, sans-serif" font-size="40" fill="#bfe3ea">Root-Cause Analysis · Microscopy · Python</text>
 </svg>

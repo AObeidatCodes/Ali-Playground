@@ -1,122 +1,118 @@
-# LinkedIn roast, round 3 (targeted at CQV / Process Engineer): Ali Obeidat
+# LinkedIn roast, round 4 (R&D / analytics target, e.g. Bosch PreMaster Wafertest): Ali Obeidat
 
-Assumed: field = pharma process engineering and CQV (commissioning, qualification, validation) · level = early career (2026 graduate) · target = junior Process Engineer or Validation (CQV) Engineer in pharma or biomanufacturing, Germany (your words).
+Assumed: field = chemical and pharmaceutical engineering, focused on analytical R&D (materials and contamination analysis, root-cause analysis, process improvement) in semiconductors, chemicals and pharma · level = early career (B.Sc. 2026, Master's next) · target = R&D and analytics programs like the Bosch PreMaster Wafertest, plus process and analytics roles generally (your words: don't fixate on one job).
 
-**Note:** the profile PDF was the same as in round 2, because the round-2 fixes aren't on LinkedIn yet. The difference this time is that every reviewer judged it against your real target.
+The reviewers read your **LinkedIn profile only**, the way a recruiter would. Your CV was used for the rewrite, not the roast.
 
-The five reviewers are one AI model playing five roles, each working alone. They're a structured second opinion, not five real people, and not career advice.
+The five readers are one AI model playing five roles, each working alone. They're a structured second opinion, not five real people, and not career advice.
 
-**Score: 5.4 / 10.** Round 2 was 5.8 on the same text. It dropped because CQV readers look for validation vocabulary, and the profile doesn't have it yet.
-
----
-
-## 1. Recruiter, junior Process / CQV roles in Germany (5/10)
-
-**HEADLINE ROAST:** "Process & Pharmaceutical Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research | Python (NumPy, pandas) | English, Arabic, German B2"
-I search for "CQV", "Validation", "Commissioning" and "IQ/OQ/PQ", and none of them are here, even though you commissioned a test bench. You claim the title "Engineer", but your current role says "Intern". Half the line goes to Python and hydrogen R&D, which my pharma client does not filter on.
-
-**ABOUT ROAST:** "I also support process validation work on the team."
-This is the line closest to the job I am hiring for, and it is the emptiest one. It names no protocol, no test and no document you wrote. The paragraph also runs together ("with data.At Bosch", "every result.Before Bosch"), which looks careless on a profile that sells good documentation practice.
-
-**THREE WEAKEST BULLETS:**
-- "Support process validation activities within the Solid Oxide Cell Development team." It does not say what you supported, which document you wrote or what result came out of it.
-- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." It says where you were and which tool you touched, not what you did with it.
-- "Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications." This reads like the job description, with no number and no finding.
-
-**FIRST 6 SECONDS:** The search hit comes from "GMP/CAPA". Then I see "Research Intern – Solid Oxide Cell Development" and file you as a hydrogen researcher with 4 months of pharma QA two years ago. Stuttgart and German B2 keep me reading. The commissioning bullet almost saves you, but it is third, and it is not written as CQV work (no protocol, no acceptance criteria). I save the profile and do not message.
-
-**FIRST FIX:** Rewrite the headline so it matches the role and the search keywords, for example: "Junior Process / CQV Engineer | GMP Pharma | Commissioning, Process Validation, Batch Records, CAPA | German B2". Change Top Skills to match it.
+**Score: 5.4 / 10**
 
 ---
 
-## 2. Hiring manager, pharma process / CQV team (5/10)
+## 1. Recruiter, early-career R&D / analytics (6/10)
 
-**HEADLINE ROAST:** "Process & Pharmaceutical Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research"
-You call yourself a process engineer, but your only GMP role is four months as a QA Officer reviewing paperwork. The headline leaves out the one thing my team pays for, commissioning and qualification, and you have actually done commissioning. The Bosch hydrogen work sits in the most valuable slot even though it has nothing to do with my line.
+**HEADLINE ROAST:** "Pharmaceutical and Chemical Juniour Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research..." The first word I search for is spelled wrong ("Juniour"), and that hurts a profile that claims good documentation practice. It opens with GMP paperwork, so a wafer-test or R&D search shows a QA officer first and the Bosch researcher second. "Root cause," "analysis" and "Master's" are not in it.
 
-**ABOUT ROAST:** "I also support process validation work on the team."
-This is the only sentence that matches a CQV job, and it is the vaguest one in the section. "Support" could mean writing a protocol or carrying a clipboard. Also, "with data.At Bosch" is missing a space, which is a bad sign for someone selling good documentation practice.
+**ABOUT ROAST:** "I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing." Your current job is hydrogen cells at 800 °C, so the first sentence contradicts the next three. The missing spaces ("data.At Bosch," "results.Before Bosch") make it look pasted and never proofread. A PreMaster program screens for one thing, a planned Master's, and it isn't mentioned anywhere.
 
 **THREE WEAKEST BULLETS:**
-- "Support process validation activities within the Solid Oxide Cell Development team." There is no document, no protocol type and no result, so it proves nothing.
-- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a cleanroom is not a skill, and "used HPLC" names no method, no test and no outcome.
-- "Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications." This restates the job description. It gives no number and no finding.
+- "Support process validation activities within the Solid Oxide Cell Development team." It doesn't say what you validated, how, or what came out of it.
+- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Your only real analytical instrument is buried at bullet four, with no method, sample count or result.
+- "Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications." This is the job description copied out, not something you did.
 
-**FIRST 6 SECONDS:** I scan for IQ/OQ/PQ, URS, FAT/SAT or "qualification" and find none. Top Skills lists three electrochemistry terms and zero pharma terms. I would jump to the commissioning bullet and the W1/X1 fault trace, because that is the only real day-one proof, and it is buried under a hydrogen lab title.
+**FIRST 6 SECONDS:** I search "FTIR," "Mikroskopie," "Kontaminationsanalyse," "Masterstudium." None of them match, so you only show up because of Bosch. I would stop at the W1/X1 set-value bullet, because that is real root-cause work with a fix that worked. Then I go looking for a Master's plan and a finished degree, find neither, and hesitate. It's a maybe, and only because of Bosch.
 
-**FIRST FIX:** Rewrite "Support process validation activities" so it names exactly what you produced: which protocol or report, for what equipment, what you executed, and what you found.
+**FIRST FIX:** Rewrite the headline. Fix "Juniour" and lead with the target: "Chemical Engineer (B.Sc. 2026) | Root-Cause Analysis & Test Engineering at Bosch Research | HPLC, EIS | Python | German B2 | Starting Master's 2027." Use your real start date if it's not 2027.
+
+---
+
+## 2. Hiring manager, R&D analytics in wafer test (4/10)
+
+**HEADLINE ROAST:** "Pharmaceutical and Chemical Juniour Engineer | GMP Manufacturing, Batch Records, CAPA". The first word puts you in my pharma QA pile, and "Juniour" is misspelled in the one line everyone reads. Microscopy, FTIR, contamination and semiconductors never appear. Your best assets for my team, test benches and Python, sit behind pharma paperwork.
+
+**ABOUT ROAST:** "I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing." Your first sentence says you want a different job than the one I'm hiring for. The Bosch fault story is good, but it starts after "data.At". That missing space hurts someone selling documentation discipline. You never say which manual step your Python tools replaced or how much time they saved.
+
+**THREE WEAKEST BULLETS:**
+- "Support process validation activities within the Solid Oxide Cell Development team." No method, no deliverable, no result. "Support" hides what you actually did.
+- "Built Python tools with NumPy and pandas to analyze and plot cell performance data..." This is your most relevant line for digitalising workflows, and it never says what manual work it replaced, how many hours it saved or who uses it.
+- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." It is your only claim to an analytical instrument, cut down to "used", with no method, sample count or finding.
+
+**FIRST 6 SECONDS:** I scan the headline for microscopy, FTIR, contamination or wafer, find none and jump to the Bosch bullets. The W1/X1 tag fix is the only proof here that you can find the root cause of a failure on test equipment. That one bullet decides whether I keep reading.
+
+**FIRST FIX:** Rewrite the headline so it leads with what transfers, and delete "Pharmaceutical" and "Juniour": "Chemical Engineer | Root-cause analysis on high-temperature test benches at Bosch Research | Python data tools (NumPy, pandas) | Cleanroom, HPLC | German B2".
 
 ---
 
 ## 3. Founder (6/10)
 
-**HEADLINE ROAST:** "Process & Pharmaceutical Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research | Python (NumPy, pandas) | English, Arabic, German B2"
-It has five pipes and no results, so it reads like a keyword field, not a pitch. "GMP Manufacturing" oversells four months of reviewing batch records in QA. I can't tell whether you want a pharma plant or a hydrogen lab, and your Top Skills (Test Engineering, Electrochemical Characterization) point away from the pharma lead.
+**HEADLINE ROAST:** "Pharmaceutical and Chemical Juniour Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research | Python (NumPy, pandas) | English, Arabic, German B2"
+"Juniour" is misspelled in the first four words, on a profile that sells good documentation practices. Five segments means you haven't picked a job: pharma QA, hydrogen R&D, Python and languages all squeezed into one line. "R&D at Bosch Research" also leaves out that the role is an internship, and I find that out one scroll later.
 
-**ABOUT ROAST:** "I also support process validation work on the team."
-People write "support" when they can't name what they delivered. The line sits right after your best story and weakens it. Also, "data.At Bosch" is missing a space, and "5 random runs" makes the failure sound unexplained when you actually found the cause.
+**ABOUT ROAST:** "I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing."
+Nothing below supports it. Your actual work is QA batch-record review and fuel-cell testing, not process engineering in pharma or biomanufacturing. The missing spaces ("data.At Bosch", "result.Before Bosch") and the single block of text also bury your best story, the bench fix.
 
 **THREE WEAKEST BULLETS:**
-- "Support process validation activities within the Solid Oxide Cell Development team." It names no protocol, no output and no owner, so it reads like a line from a job ad.
-- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a room and using an instrument shows you were present, not what you achieved.
-- "Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications." This is the QA job description. What did a check actually catch?
-- The "Marketing Team Member" entry has no description at all. Fill it or delete it.
+- "Support process validation activities within the Solid Oxide Cell Development team." It names no validation, no action of yours and no result.
+- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a room and using an instrument is not a result.
+- "Built relationships with partner organizations from different countries and cultures to open new exchange opportunities." The bullet above already says 12 entities, so this one adds only filler.
 
-**FIRST 6 SECONDS:** I'd skip the headline and go straight to the Bosch bullets, landing on the W1/X1 tag fix. It is the only line where you find a fault, fix it and state the outcome, and that is the owner I want. Next I'd check the dates: the "Engineer" title rests on a 7-month internship plus a 4-month QA stint.
+**FIRST 6 SECONDS:** I'd see the typo, check Bosch and see "Research Intern", then look for one line where you fixed something yourself. I'd find the W1/X1 bullet: a broken set-value tag, a workaround and a bench that records results again. That line is why I'd keep reading. The headline nearly made me close the page.
 
-**FIRST FIX:** Rewrite the headline around one target role and the bench fix, e.g. "Process Engineer | Got a failed SOEC test bench running again and commissioned a new one at Bosch | GMP QA background".
+**FIRST FIX:** Rewrite the headline around one target role, spelled correctly, and put your proof in it: "Process & Test Engineer | Restored a failed high-temperature test bench at Bosch Research | GMP QA background (batch records, CAPA)". Cut the languages and the Python libraries from the headline.
 
 ---
 
-## 4. Expert in pharma process engineering and CQV (5/10)
+## 4. Expert in materials, contamination and failure analysis (5/10)
 
-**HEADLINE ROAST:** "Process & Pharmaceutical Engineer | GMP Manufacturing, Batch Records, CAPA"
-The profile shows four months in QA and an internship on hydrogen cells. That is not a process engineer, and checking a line as QA is not "GMP Manufacturing." Your own Top Skills (Test Engineering, Electrochemical Characterization, R&D) don't match the headline.
+**HEADLINE ROAST:** "Pharmaceutical and Chemical Juniour Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research | Python..."
+"Juniour" is a typo in the one line everyone reads. You're pitching pharma GMP and hydrogen electrochemistry in the same sentence, so I can't tell which job you want. Also, "R&D at Bosch Research" makes a 7-month internship sound like a staff role.
 
-**ABOUT ROAST:** "focused on process engineering in pharmaceutical and biomanufacturing"
-Biomanufacturing appears nowhere else on the profile: no upstream, downstream, single-use or bioreactor work. You claim a focus you have no evidence for. Also, the bench-tag story is told twice, and "data.At Bosch" has no space after the full stop.
+**ABOUT ROAST:** "I like getting equipment running, finding out why a process fails, and proving the fix with data."
+Your only root-cause story is a dead W1 tag that you replaced with a spare running off the actual value. That's a workaround. You never say why W1 failed or how "safely" was checked. You also say your focus is "pharmaceutical and biomanufacturing" while your whole current job is SOFC testing, and "data.At" is missing a space.
 
 **THREE WEAKEST BULLETS:**
-- "Support process validation activities within the Solid Oxide Cell Development team." This is jargon with nothing behind it: no protocol, no stage, no acceptance criteria, and "process validation" means little in an R&D cell lab.
-- "Commissioned a new high-temperature test bench over 2 months, working through hardware problems…" It gives a duration and a struggle but no result: no checklist, no punch list, no handover, no proof the bench met spec.
-- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a room and touching an instrument is presence, not work, and HPLC on the line is unusual for a QA officer.
+- "Support process validation activities within the Solid Oxide Cell Development team." Which protocol, which acceptance criteria, which part did you own? As written, this says nothing.
+- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." "Used HPLC" doesn't tell me if you ran an assay, read results, or just stood next to the machine. It names no analyte, no method and no result.
+- "Characterize SOFC and SOEC single cells... testing around 60 cells at 800 °C." Sixty cells and not one result: no area-specific resistance (ASR), no degradation rate, no finding that changed anything.
 
-**FIRST 6 SECONDS:** I compare the dates against the headline. Pharma is 4 months in 2024 and the current role is a hydrogen research internship. Then I scan for IQ/OQ/PQ, URS, FAT/SAT or change control and find none. Verdict: a graduate with a QA stint and good troubleshooting instincts, not a CQV or process engineer.
+**FIRST 6 SECONDS:** I'd see "Juniour," then "Research Intern" under a headline that implies more, then two "BASc" entries that overlap in time. A semester exchange at TH Lübeck listed as a second bachelor's looks like inflation, and I'd start doubting everything else on the page.
 
-**FIRST FIX:** Make the headline match the evidence, for example: "Pharmaceutical & Chemical Engineering Graduate | GMP QA (batch records, CAPA) | Test-Bench Commissioning & Troubleshooting at Bosch Research". Then delete "process validation" unless you can name the protocol you executed. The W1/X1 fix is your best real CQV story, but it needs one more line saying it went through change control and was verified. Without that, an expert reads it as an undocumented workaround.
+**FIRST FIX:** Fix the headline. Spell "Junior" right and pick one lane, pharma process/QA or electrochemical test. Then relist Lübeck as an exchange semester, not a second degree.
 
 ---
 
-## 5. Peer, early-career pharma process / CQV (6/10)
+## 5. Peer, early-career chemical engineering R&D (6/10)
 
-**HEADLINE ROAST:** "Process & Pharmaceutical Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research | Python (NumPy, pandas) | English, Arabic, German B2"
-The pharma title rests on four months as a QA Officer in 2024, and your current job is fuel cells. Your best CQV evidence, commissioning a test bench, isn't in the headline at all. Your own Top Skills (Test Engineering, Electrochemical Characterization, R&D) don't back up the title either.
+**HEADLINE ROAST:** "Pharmaceutical and Chemical Juniour Engineer | GMP Manufacturing, Batch Records, CAPA | Electrochemical R&D at Bosch Research"
+"Juniour" is misspelled in the first line anyone reads. That hurts more on a profile selling good documentation practice. The headline also leads with GMP from a 4-month QA job and pushes your current 7-month Bosch role to third place.
 
-**ABOUT ROAST:** "focused on process engineering in pharmaceutical and biomanufacturing"
-No bioreactor, cell culture or single-use system appears anywhere below this line. One claim you can't back up makes me doubt the ones you can. Also, "data.At Bosch" and "results.Before" are missing spaces, on a profile that sells good documentation practices.
+**ABOUT ROAST:** "I'm a chemical and pharmaceutical engineer focused on process engineering in pharmaceutical and biomanufacturing."
+Nothing after this line is biomanufacturing, and the longest paragraph is about hydrogen cells. "proving the fix with data.At Bosch" and "records every result.Before Bosch" are missing spaces, so it looks pasted in and never reread. You say you prove fixes with data, but you give no data from 60 cells: no area-specific resistance (ASR), no degradation rate, no baseline.
 
 **THREE WEAKEST BULLETS:**
-- "Support process validation activities within the Solid Oxide Cell Development team." There's no protocol, no IQ/OQ/PQ and no deliverable, so to a CQV reader "support" sounds like you sat in the meetings.
-- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a room and using an instrument isn't a result: which assay, how many samples, and was anything out of spec?
-- "Performed in-process quality checks and line monitoring under GMP, confirming adherence to approved procedures and specifications." This reads like the job posting, with no count, frequency or finding.
+- "Support process validation activities within the Solid Oxide Cell Development team." It doesn't say which process, what it was checked against, or what your part was.
+- "Worked in GMP cleanroom areas and used HPLC as part of quality checks." Being in a room and using an instrument is not a result, so name the assay or the substance you tested.
+- "Marketing Team Member ... (no description)" An empty entry is padding, so fill it or delete it.
 
-**FIRST 6 SECONDS:** I'd read "Pharmaceutical Engineer," jump to Experience, and find the current role is solid oxide cells and the pharma role lasted four months. Then I'd stop at the W1/X1 bullet, the one I'd copy: a failed tag, a named fix and a stated result. In a GMP plant that tag swap would need change control, and saying so would show you know the difference.
+**FIRST 6 SECONDS:** I read the headline, trip on "Juniour", then jump to the Bosch bullets to see which story is real, pharma or solid oxide cells. The W1/X1 tag fix makes me trust the person more than the headline. That bullet is the one I would copy: a specific symptom (5 runs with no results), a root cause, a workaround and an outcome. The eye-roll is "Test Engineering" as a top skill, because it is generic, while the specific methods (impedance spectroscopy, Aspen Plus) are buried in the text.
 
-**FIRST FIX:** Rewrite the headline around what you've proven: "Process Engineer | Commissioned high-temp test bench, restored temperature control (Bosch Research) | GMP QA: ~40 batch records, 7 CAPAs closed (Hikma)".
+**FIRST FIX:** Rewrite the headline to lead with your current work and fix the spelling, e.g. "Chemical Engineer | Solid Oxide Cell Testing (EIS, Polarization Curves) at Bosch Research | Python | Former GMP QA, Hikma | German B2".
 
 ---
 
 ## What all five agree on
 
-1. **"Support process validation activities" is empty.** It's the line closest to a CQV job and the weakest on the page: no protocol, no deliverable, no result. (5 of 5)
-2. **"Worked in cleanroom areas and used HPLC" only says you were there.** It names no test and no result. (5 of 5)
-3. **The headline claims a title the profile can't back up, and it leaves out commissioning, your real CQV evidence.** (5 of 5)
-4. **Sentences glued together in the About** ("data.At", "results.Before"). (5 of 5)
-5. **Top Skills point at electrochemistry, not GMP or CQV.** (4 of 5)
-6. **No CQV vocabulary** (IQ/OQ/PQ, URS, FAT/SAT, change control, qualification). Add these only if you really did them. (4 of 5)
-7. **The W1/X1 fix is your best story.** It should come first and mention approval or change control. (4 of 5)
-8. **"Performed in-process quality checks…" reads like a job description.** (4 of 5)
+1. **"Juniour" is misspelled in your headline.** That's the worst possible place for a typo, on a profile that sells documentation skills. (5 of 5)
+2. **The headline leads with pharma QA paperwork** and buries Bosch and your analytical work. It also packs in too many lanes. (5 of 5)
+3. **The About opens with "biomanufacturing", which nothing backs up**, and it contradicts your current job. (5 of 5)
+4. **"Support process validation activities" is empty.** (5 of 5)
+5. **"Worked in cleanroom areas and used HPLC" hides your only analytical instrument.** (5 of 5)
+6. **Sentences glued together in the About** ("data.At", "result.Before"). (5 of 5)
+7. **The W1/X1 fix is the one bullet that keeps them reading.** (4 of 5) The expert calls it a workaround until you say how you verified it.
 
-**Average:** 5.4 / 10. **Lowest:** 5, from the recruiter, the hiring manager and the CQV expert. The founder and the peer gave 6.
+Raised by 2: no Master's plan anywhere (a PreMaster program requires one); no microscopy or analytical keywords; "60 cells" with no finding; the second AIESEC bullet and the empty Marketing entry are filler.
 
-**The honest read:** you aren't being marked down for missing experience. A 2026 graduate isn't expected to have CQV experience. You're being marked down because the profile **claims a title** instead of **showing the commissioning and troubleshooting work you did**, and because the validation line is empty. The round-2 rewrite already fixes most of this, and this round tunes it to CQV.
+**Average:** 5.4 / 10. **Lowest:** 4, from the hiring manager for the analytics team, because nothing on the page says microscopy, contamination or analysis.
+
+**The big news:** your **CV already answers most of this.** It has light microscopy at Bosch, a Python tool that cut evaluation from 3 hours to 20 minutes, your grades (1.8 / 1.4 / best in cohort), a thesis root-cause story, and real in-process testing at Hikma. None of it is on LinkedIn yet.

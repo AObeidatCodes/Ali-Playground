@@ -1,0 +1,5 @@
+data/unknowns_nist/
+data/.download/
+reports*/
+__pycache__/
+.pytest_cache/
